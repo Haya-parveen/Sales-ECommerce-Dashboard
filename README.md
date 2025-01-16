@@ -28,4 +28,4 @@ Looking forward to creating more dashboards and refining my skills as I continue
 - The dataset used for this project was sourced from a public tutorial.
 
 - ### Dataset Source:
-The dataset used for this project was sourced from [YouTube Tutorial by Rishabh Mishra](insert-link-here).
+The dataset used for this project was sourced from [YouTube Tutorial by Rishabh Mishra](https://www.youtube.com/watch?v=6cV3OwFrOkk).
