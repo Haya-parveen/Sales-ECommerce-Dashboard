@@ -19,10 +19,13 @@ How to use Power BI's interactive features like filters, slicers, and drill-thro
 The importance of storytelling through data and presenting complex information in an accessible way.
 <br>
 <br>
-Looking forward to creating more dashboards and refining my skills as I continue my journey with data analysis. Stay tuned for future updates as I work on more advanced Power BI projects!
+Looking forward to creating more dashboards and refining my skills as I continue my journey with data analysis. 
 
 ## Preview
 ![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Dataset
 - The dataset used for this project was sourced from a public tutorial.
+
+- ### Dataset Source:
+The dataset used for this project was sourced from [YouTube Tutorial by Rishabh Mishra](insert-link-here).
