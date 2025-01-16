@@ -20,3 +20,6 @@ The importance of storytelling through data and presenting complex information i
 <br>
 <br>
 Looking forward to creating more dashboards and refining my skills as I continue my journey with data analysis. Stay tuned for future updates as I work on more advanced Power BI projects!
+
+## Dataset
+- The dataset used for this project was sourced from a public tutorial.
